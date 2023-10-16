@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**srikrishna7272/srikrishna7272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Srikrishna! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Hello, I'm Srikrishna. I'm a Web developer with 2 years of experience. I enjoy building websites. My focus is React and Next Js.
+
+
+## 🛠 Skills
+Nextjs 13, react, typescript, redux, tailwindCSS, react-native, javascript, html, css, radixui, shadcn, bootstrap, mySQL, postgreSQL, mongoDB, nodejs, prisma, webpack, docker, AWS..
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://srikrishna-karnati-portfolio.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikrishna-karnati-309706182/)
+
+
+
+## 
+👩‍💻 I'm currently working on E-Commerce platform.
+
+🧠 I'm currently learning Nextjs.
+
+
+📫 You can reach me at karnati7272@gmail.com
+
+
+
+
+
