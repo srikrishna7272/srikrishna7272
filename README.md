@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Hello, I'm Srikrishna. I'm a Web developer with 2 years of experience. I enjoy building websites. My focus is React and Next Js.
+Hello, I'm Srikrishna. I'm a Web developer with 2 years of experience. I enjoy building websites. My focus is MERN Stack.
 
 
 ## 🛠 Skills
