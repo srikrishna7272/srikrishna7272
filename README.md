@@ -7,7 +7,7 @@ Hello, I'm Srikrishna. I'm a Web developer with 2 years of experience. I enjoy b
 
 
 ## 🛠 Skills
-Nextjs 13, react, typescript, redux, tailwindCSS, react-native, javascript, html, css, radixui, shadcn, bootstrap, mySQL, postgreSQL, mongoDB, nodejs, prisma, webpack, docker, AWS..
+Nextjs 13, react, typescript, redux, tailwindCSS, , javascript, html, css, radixui, shadcn, bootstrap, Java, SpringBoot, microservices, JUnit, mySQL, postgreSQL, mongoDB, nodejs, prisma, webpack, docker, AWS..
 
 
 ## 🔗 Links
