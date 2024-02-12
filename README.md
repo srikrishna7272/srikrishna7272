@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-Hello, I'm Srikrishna. I'm a Web developer with 2 years of experience. I enjoy building websites. My focus is MERN Stack.
+Hello, I'm Srikrishna. I'm a Web developer with 2 years of experience. I enjoy building websites.
 
 
 ## 🛠 Skills
-Nextjs 13, react, typescript, redux, tailwindCSS, , javascript, html, css, radixui, shadcn, bootstrap, Java, SpringBoot, microservices, JUnit, mySQL, postgreSQL, mongoDB, nodejs, prisma, webpack, docker, AWS..
+Nextjs 13, react, typescript, redux, tailwindCSS, , javascript, html, css, radixui, shadcn, bootstrap, Java, SpringBoot, microservices, JUnit, mySQL, postgreSQL, mongoDB, nodejs, prisma, webpack, docker, AWS.
 
 
 ## 🔗 Links
